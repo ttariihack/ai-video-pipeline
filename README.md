@@ -1,4 +1,3 @@
-jos jis jos jis 
 
 <div align="center">
 
